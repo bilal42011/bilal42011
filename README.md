@@ -1,7 +1,7 @@
 
 ![Header](./github-header-image.png)
-
-
+<br/>
+<br/>
   
 
 ### <div align="center">I'm Bilal, a full-stack freelance developer 👨‍💻 who is keen to learn new technologies and to contribute in open source🚀</div>  
