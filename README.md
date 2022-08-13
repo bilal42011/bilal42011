@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%,height:50px />
-</div>  
+![Header](./github-header-image.png)
+
+
   
 
 ### <div align="center">I'm Bilal, a full-stack freelance developer 👨‍💻 who is keen to learn new technologies and to contribute in open source🚀</div>  
