@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Ecommerce Platform for Customized Products ](https://github.com/bilal42011/Fyp-Frontend)  
   
 
-- 🌱 I’m currently learning Nest.js and Docker  
+- 🌱 I’m currently learning Nest.js, React Native and Docker  
   
 
 - ❓ Ask me about anything related to Web Development, MERN stack and related technologies  
