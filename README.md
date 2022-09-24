@@ -4,7 +4,7 @@
 
   
 
-### <div align="center">I'm Bilal, a full-stack freelance deveoper 👨‍💻 who is keen to learn new technologies and to contribute in open source🚀</div>  
+### <div align="center">I'm Bilal, a full-stack freelance developer 👨‍💻 who is keen to learn new technologies and to contribute in open source🚀</div>  
   
 
 - 🔭 I’m currently working on [Ecommerce Platform for Customized Products ](https://github.com/bilal42011/Fyp-Frontend)  
